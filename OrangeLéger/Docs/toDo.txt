@@ -1,0 +1,23 @@
+lister fonctionnalités pour client et techniciens
+
+use case de clients et techniciens avec xmind
+
+mcd / mldr
+
+charte graphique
+
+wireframe adobe xd
+
+coder
+
+utiliser CRUD
+
+client : créer annuler interventions / commander annuler produit / historique et état interventions / idem pour produits orange / gérer compte
+techniciens : gérer interventions objets assignés / historique et état interventions produits
+
+
+
+
+
+
+faire documentation en s'inspirant du boulot d'ervino
