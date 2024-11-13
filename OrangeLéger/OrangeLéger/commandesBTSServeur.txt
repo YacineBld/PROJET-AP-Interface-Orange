@@ -1,0 +1,23 @@
+ssh jfrancois@172.20.0.111
+
+su  mdp: btssio2023
+
+
+
+connection mysql :
+
+mysql
+
+
+
+
+aller là où se trouvent le code:
+
+cd /home/jfrancois/orange/Code
+
+
+
+
+récup données
+
+git pull avec compte gitlab
