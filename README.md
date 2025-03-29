@@ -3,14 +3,12 @@
 ![Capture d'écran Interface Orange](images/capture22.png)
 
 ## 📋 Description
-Ce projet est une interface utilisateur inspirée des applications d'Orange, développée comme un client léger. L'application imite l'expérience utilisateur et l'interface d'Orange pour démontrer les compétences en développement front-end et en conception UI/UX.
+Ce projet est une interface utilisateur inspirée des applications d'Orange, développée comme un client léger. L'application imite l'expérience utilisateur et l'interface d'Orange pour démontrer les compétences en développement front-end.
 
 ## 🛠️ Technologies utilisées
 - HTML5
 - CSS3
 - JavaScript
-- Responsive Design
-- Framework CSS (Bootstrap)
 
 ## ✨ Fonctionnalités
 - Interface utilisateur imitant l'application Orange
